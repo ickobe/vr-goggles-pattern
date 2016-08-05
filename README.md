@@ -4,6 +4,17 @@ This repository contains A3/A4 paper-sized patterns for VR based on Google Cardb
 
 ![](cardboard-out.png)
 
+## How to use?
+
+Print-out images in original size with A3/A4 paper. 
+
+
+## How to make it?
+
+This article (jp) is useful to make goggles.  
+http://www.tokyo-indie-band.com/2015/07/360mv-cardboard.html
+
+
 ## Contents
 
 * a3-basic
@@ -18,13 +29,3 @@ This repository contains A3/A4 paper-sized patterns for VR based on Google Cardb
   * A4用紙でVRゴーグルを作るための雛型
     * ![](./a4-basic/a4-basic_a.png)
     * ![](./a4-basic/a4-basic_b.png)
-
-## How to use?
-
-Print-out images in original size with A3/A4 paper. 
-
-
-## How to make it?
-
-This article (jp) is useful to make goggles.  
-http://www.tokyo-indie-band.com/2015/07/360mv-cardboard.html
